@@ -7,9 +7,9 @@
 ### Portas Usadas
 | Serviço                                                              | Porta |
 | -------------------------------------------------------------------- | ----- |
-| [[Docs/services/Crafty Controller\|Crafty Controller]]               | 8443  |
-| [[Docs/services/OpenProject - desativado\|OpenProject - desativado]] | 80    |
-| [[Docs/services/JetBrains Youtrack\|JetBrains Youtrack]]             |       |
+| [Crafty Controller](services/Crafty%20Controller.md)                 | 8443  |
+| [OpenProject - desativado](services/OpenProject%20-%20desativado.md) | 80    |
+| [JetBrains Youtrack](services/JetBrains%20Youtrack.md)               | 8080  |
 
 ### Segurança
 - **Exposição**: Serviços não expostos diretamente.
