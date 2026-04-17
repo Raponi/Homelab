@@ -16,6 +16,6 @@ Ambiente prático para aprendizado de infraestrutura, automação e desenvolvime
 - Automação via API
   
 ## Serviços
-- [[Crafty Controller]]
-- [[OpenProject - desativado]]
-- [[ActualBudget]]
+- [[Docs/services/Crafty Controller|Crafty Controller]]
+- [[Docs/services/OpenProject - desativado|OpenProject - desativado]]
+- [[Docs/services/JetBrains Youtrack|JetBrains Youtrack]]
